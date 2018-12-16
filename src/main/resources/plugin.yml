@@ -1,0 +1,26 @@
+name: Hrw
+version: ${project.version}
+main: me.seos.hrw.Hrw
+authors: [seos]
+commands:
+  lorekit:
+    description: Command kit
+    usage: /lorekit
+  godkit:
+    description: Command kit
+    usage: /godkit
+  legendarykit:
+    description: Command kit
+    usage: /legendarykit
+  eventkit:
+    description: Command kit
+    usage: /eventkit
+  koth:
+    description: Command Event
+    usage: /koth
+  baconskit:
+    description: Command Event
+    usage: /baconskit
+  test:
+    description: Command Test
+    usage: /test

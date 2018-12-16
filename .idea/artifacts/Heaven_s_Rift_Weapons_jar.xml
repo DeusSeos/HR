@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Heaven's Rift Weapons:jar">
+    <output-path>$USER_HOME$/Desktop/Heavens Rift Plugins</output-path>
+    <root id="archive" name="Heaven's Rift Weapons.jar">
+      <element id="module-output" name="Heaven's Rift Weapons" />
+    </root>
+  </artifact>
+</component>
